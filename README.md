@@ -29,24 +29,21 @@ Rails 5.2.4
 * 口コミの登録、詳細表示、編集、削除機能 
   
 # カタログ設計
-https://docs.google.com/spreadsheets/d/1g8SS4Nk3phSOV-C-d-mhn3Gn0Cr_YywHe1mE2o7Uehw/edit#gid=0
+https://docs.google.com/spreadsheets/d/10ywyBjSN8FAdJP7AfubTG_l3uqJFhqYQCo-lciMkOXE/edit#gid=673832501
 
 # テーブル定義書
-https://docs.google.com/spreadsheets/d/1iOPZgwKPlRvrNozj6JQp3Bimx7UwiQo_O1FAwTi5qmM/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1g8SS4Nk3phSOV-C-d-mhn3Gn0Cr_YywHe1mE2o7Uehw/edit#gid=1858419861
 
 # ER図
-https://drive.google.com/file/d/155DzINLIenc4p_3Fe5Ps0IiXtScDzi1w/view?usp=sharing
+https://drive.google.com/drive/my-drive
 
 # 画面遷移図
-https://docs.google.com/drawings/d/1tm1D59V1aG0bTsivnAOUnCMYl_XlwU420lQGER8PO54/edit?usp=sharing
+https://docs.google.com/drawings/d/1LSpKtQUqbWANIiXqLcx25hFdXXdKTYZgJXJ1ZpaTuRk/edit
 
 # ワイヤーフレーム
-https://docs.google.com/presentation/d/13QMMdMB9RycHXup1--BelNRvOYHaaNKXj--krSIolWo/edit?usp=sharing
+https://docs.google.com/presentation/d/1V8ptkCF3nfDP78EKz7NLWE3zf-eFISsII_2Wqjv_LeM/edit#slide=id.g7d6d711d8f_0_207
 
 # 使用Gem
-* device
 * kaminari
-* acts-as-taggable-on
 * ransack
 * rails_admin
-* materialize-sass
