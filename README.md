@@ -35,7 +35,7 @@ https://docs.google.com/spreadsheets/d/10ywyBjSN8FAdJP7AfubTG_l3uqJFhqYQCo-lciMk
 https://docs.google.com/spreadsheets/d/1g8SS4Nk3phSOV-C-d-mhn3Gn0Cr_YywHe1mE2o7Uehw/edit#gid=254526464
 
 # ER図
-https://drive.google.com/drive/my-drive
+https://cacoo.com/diagrams/a4wu5S563hC6w9Gh/CE5E8
 
 # 画面遷移図
 https://docs.google.com/drawings/d/1LSpKtQUqbWANIiXqLcx25hFdXXdKTYZgJXJ1ZpaTuRk/edit
