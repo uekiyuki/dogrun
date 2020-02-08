@@ -32,7 +32,7 @@ Rails 5.2.4
 https://docs.google.com/spreadsheets/d/10ywyBjSN8FAdJP7AfubTG_l3uqJFhqYQCo-lciMkOXE/edit#gid=673832501
 
 # テーブル定義書
-https://docs.google.com/spreadsheets/d/1g8SS4Nk3phSOV-C-d-mhn3Gn0Cr_YywHe1mE2o7Uehw/edit#gid=1858419861
+https://docs.google.com/spreadsheets/d/1g8SS4Nk3phSOV-C-d-mhn3Gn0Cr_YywHe1mE2o7Uehw/edit#gid=254526464
 
 # ER図
 https://drive.google.com/drive/my-drive
